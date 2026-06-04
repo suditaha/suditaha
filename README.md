@@ -6,7 +6,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/suditaha/vulnerability-management-program)**
-- **[Windows 11 STIG Remediations (PowerShell)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
+- **[Windows 11 STIG Remediations (PowerShell)](https://github.com/suditaha/Windows-11-STIG-Remediations-PowerShell-/tree/main/STIGS)**
 
 ## 🚨 Threat Hunting and Security Operations
 
