@@ -13,6 +13,33 @@ Cyber Security Analyst focused on Vulnerability Management, Threat Hunting, Secu
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/suditaha/threat-hunting-scenario-tor)**
 - **[Threat Hunting Scenario (Signals Before the Noise 2)](https://github.com/suditaha/threat-hunt-signals/blob/main/README.md)**
 
+## Skills & Technologies
+
+### Security Operations
+- Microsoft Sentinel
+- Microsoft Defender for Endpoint
+- Threat Hunting
+- Incident Response
+- Detection Engineering
+
+### Vulnerability Management
+- Tenable
+- CVSS
+- Vulnerability Assessment
+- Vulnerability Remediation
+- DISA STIG
+
+### Cloud Security
+- Microsoft Azure
+- Azure Virtual Machines
+- Azure Networking
+- Identity & Access Management
+
+### Scripting
+- PowerShell
+- KQL
+- Bash
+
 <hr/>
 
 ## 🤳 Connect With Me
