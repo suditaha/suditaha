@@ -1,4 +1,4 @@
-# <a href="https://www.linkedin.com/in/sudita/">Sid Taha</a>'s IT and Cybersecurity Project Portfolio 🔐
+# <a href="https://www.linkedin.com/in/sudita/">Sid Taha</a>'s Cybersecurity Project Portfolio 🔐
 
 Cyber Security Analyst focused on Vulnerability Management, Threat Hunting, Security Operations, and Cloud Security. This portfolio showcases hands-on projects involving Microsoft Sentinel, Defender for Endpoint, Tenable, Azure, PowerShell, and KQL.
 
