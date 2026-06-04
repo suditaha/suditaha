@@ -1,6 +1,6 @@
 # <a href="https://www.linkedin.com/in/sudita/">Sid Taha</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
+Cyber Security Analyst focused on Vulnerability Management, Threat Hunting, Security Operations, and Cloud Security. This portfolio showcases hands-on projects involving Microsoft Sentinel, Defender for Endpoint, Tenable, Azure, PowerShell, and KQL.
 
 
 ## ⚠️ Vulnerability Management Projects
