@@ -14,6 +14,12 @@ Cyber Security Analyst focused on Vulnerability Management, Threat Hunting, Secu
 - **[Threat Hunting Scenario (Signals Before the Noise)](https://github.com/suditaha/threat-hunt-signals0)**
 - **[Threat Hunting Scenario (Signals After the Noise)](https://github.com/suditaha/threat-hunt-signals/blob/main/README.md)**
 
+## 🖥️ Other IT Labs
+
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/suditaha/threat-hunting-scenario-tor)**
+- **[Threat Hunting Scenario (Signals Before the Noise)](https://github.com/suditaha/threat-hunt-signals0)**
+- **[Threat Hunting Scenario (Signals After the Noise)](https://github.com/suditaha/threat-hunt-signals/blob/main/README.md)**
+
 
 
 ## Skills & Technologies
