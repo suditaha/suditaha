@@ -16,9 +16,16 @@ Cyber Security Analyst focused on Vulnerability Management, Threat Hunting, Secu
 
 ## 🖥️ Other IT Projects
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/suditaha/threat-hunting-scenario-tor)**
-- **[Threat Hunting Scenario (Signals Before the Noise)](https://github.com/suditaha/threat-hunt-signals0)**
-- **[Threat Hunting Scenario (Signals After the Noise)](https://github.com/suditaha/threat-hunt-signals/blob/main/README.md)**
+### 🎫 osTicket (Help Desk Ticketing System)
+
+- **[osTicket: Prerequisites and Installation](https://github.com/suditaha/osticket-prereqs)**
+- **[osTicket: Post-Installation Configuration](https://github.com/suditaha/post-install-config)**
+- **[osTicket: Ticket Lifecycle Examples](https://github.com/suditaha/ticket-lifecycle)**
+
+### ☁️ Microsoft Azure
+
+- **[Configuring On-premises Active Directory within Azure VMs](https://github.com/suditaha/configure-ad)**
+- **[Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/suditaha/azure-network-protocols)**
 
 
 
