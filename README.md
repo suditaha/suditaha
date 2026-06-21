@@ -2,13 +2,20 @@
 
 Cyber Security Analyst focused on Vulnerability Management, Threat Hunting, Security Operations, and Cloud Security. This portfolio showcases hands-on projects involving Microsoft Sentinel, Defender for Endpoint, Tenable, Azure, PowerShell, and KQL.
 
+## 🤖 Agentic AI & Security Automation Projects
 
+- **[Web Security & AI Red Team Scanner (SaaS)](https://github.com/yourusername/ai-soc-analyst)**
+- **[AI Threat Hunting Assistant](https://github.com/yourusername/ai-threat-hunter)**
+- **[AI Vulnerability Management Agent](https://github.com/yourusername/ai-vulnerability-agent)**
+- **[Azure Security Assessment Agent](https://github.com/yourusername/azure-security-agent)**
+- **[Multi-Agent SOC Automation (LangGraph)](https://github.com/yourusername/langgraph-soc)**
+  
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/suditaha/vulnerability-management-program)**
 - **[Windows 11 STIG Remediations (PowerShell)](https://github.com/suditaha/Windows-11-STIG-Remediations-PowerShell-/tree/main/STIGS)**
 
-## 🚨 Threat Hunting and Security Operations
+## 🚨 Threat Hunting and Security Operations Projects
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/suditaha/threat-hunting-scenario-tor)**
 - **[Threat Hunting Scenario (Signals Before the Noise)](https://github.com/suditaha/threat-hunt-signals0)**
