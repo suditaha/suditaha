@@ -5,7 +5,7 @@ Cyber Security Analyst focused on Vulnerability Management, Threat Hunting, Secu
 ## 🤖 Agentic AI & Security Automation Projects
 
 - **[Web Security & AI Red Team Scanner (SaaS)](https://github.com/suditaha/agentic-ai-red-team-scanner/blob/main/README.md)**
-- **[AI Threat Hunting Assistant](https://github.com/yourusername/ai-threat-hunter)**
+- **[Agentic AI Security Mentor](https://github.com/suditaha/agentic-ai-voice-mentor/)**
 - **[AI Vulnerability Management Agent](https://github.com/yourusername/ai-vulnerability-agent)**
 - **[Azure Security Assessment Agent](https://github.com/yourusername/azure-security-agent)**
 - **[Multi-Agent SOC Automation (LangGraph)](https://github.com/yourusername/langgraph-soc)**
