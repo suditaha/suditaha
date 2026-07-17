@@ -4,8 +4,8 @@ Cyber Security Analyst focused on Vulnerability Management, Threat Hunting, Secu
 
 ## 🛡️ GRC Engineer Projects
 
-- **[Azure Security Hub Compliance Analyzer](https://github.com/suditaha/Azure-Security-Hub-Compliance-Analyzer/)**
 - **[Azure GRC Automation Platform](https://github.com/suditaha/Azure-GRC-Automation-Platform)**
+- **[Entra ID Password Policy Checker](https://github.com/suditaha/Entra-ID-Password-Policy-Checker)**
 
 ## 🤖 Agentic AI & Security Automation Projects
 
