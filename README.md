@@ -2,7 +2,7 @@
 
 Cyber Security Analyst focused on Vulnerability Management, Threat Hunting, Security Operations, and Cloud Security. This portfolio showcases hands-on projects involving Microsoft Sentinel, Defender for Endpoint, Tenable, Azure, PowerShell, and KQL.
 
-## 🛡️ GRC Engineer Projects
+## 🛡️ GRC Engineer & Security Automation Projects
 
 - **[Azure GRC Automation Platform](https://github.com/suditaha/Azure-GRC-Automation-Platform)**
 - **[Entra ID Password Policy Checker](https://github.com/suditaha/Entra-ID-Password-Policy-Checker)**
@@ -11,7 +11,7 @@ Cyber Security Analyst focused on Vulnerability Management, Threat Hunting, Secu
 - **[Azure Encryption-at-Rest Compliance Engine](https://github.com/suditaha/Azure-Encryption-at-Rest-Compliance-Engine)**
 - **[Azure Least Privilege Analyzer](https://github.com/suditaha/Azure-Least-Privilege-Analyzer)**
 
-## 🤖 Agentic AI & Security Automation Projects
+## 🤖 Agentic AI Projects
 
 - **[Web Security & AI Red Team Scanner (SaaS)](https://github.com/suditaha/agentic-ai-red-team-scanner/blob/main/README.md)**
 - **[Agentic AI Security Mentor](https://github.com/suditaha/agentic-ai-voice-mentor/)**
