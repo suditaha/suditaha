@@ -58,16 +58,35 @@ Cyber Security Analyst focused on Vulnerability Management, Threat Hunting, Secu
 - Vulnerability Remediation
 - DISA STIG
 
-### Cloud Security
-- Microsoft Azure
-- Azure Virtual Machines
-- Azure Networking
-- Identity & Access Management
+### Cloud Security & GRC Automation
+- Microsoft Azure (Functions, Automation, Key Vault, Blob Storage, Entra ID)
+- Azure Resource Manager (ARM) REST APIs
+- Governance, Risk & Compliance (GRC) Automation
+- SOC 2, NIST 800-53, ISO 27001 Control Frameworks
+- Azure Policy & Microsoft Defender for Cloud
+- Role-Based Access Control (RBAC) & Least Privilege Enforcement
+- Encryption-at-Rest Compliance
+- Credential Lifecycle Management
+- Activity Log & Diagnostic Settings Auditing
+- Microsoft Graph API
+- Managed Identities & Secretless Authentication
 
-### Scripting
+### Infrastructure as Code
+- Azure Bicep
+- HashiCorp Terraform
+
+### AI & Security Automation
+- Agentic AI Pipelines
+- Claude API Integration
+- Web Security & Red Team Automation
+- OWASP Top 10 & ASI01–ASI10
+
+### Scripting & Backend
+- Python (Azure SDK, REST APIs, data processing)
 - PowerShell
-- KQL
 - Bash
+- KQL
+
 
 <hr/>
 
