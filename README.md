@@ -9,6 +9,7 @@ Cyber Security Analyst focused on Vulnerability Management, Threat Hunting, Secu
 - **[Azure App Registration Credential Lifecycle Auditor](https://github.com/suditaha/Azure-Entra-ID-Credential-Lifecycle-Auditor)**
 - **[Azure Diagnostic Settings Compliance Auditor](https://github.com/suditaha/Azure-Diagnostic-Settings-Compliance-Auditor)**
 - **[Azure Encryption-at-Rest Compliance Engine](https://github.com/suditaha/Azure-Encryption-at-Rest-Compliance-Engine)**
+- **[Azure Least Privilege Analyzer](https://github.com/suditaha/Azure-Least-Privilege-Analyzer)**
 
 ## 🤖 Agentic AI & Security Automation Projects
 
