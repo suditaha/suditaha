@@ -1,6 +1,6 @@
 # <a href="https://www.linkedin.com/in/sudita/">Sid Taha</a>'s Cybersecurity Project Portfolio 🔐
 
-Cyber Security Analyst focused on Vulnerability Management, Threat Hunting, Security Operations, and Cloud Security. This portfolio showcases hands-on projects involving Microsoft Sentinel, Defender for Endpoint, Tenable, Azure, PowerShell, and KQL.
+Cyber Security Analyst focused on Cloud Security, GRC Automation, and Security Engineering. This portfolio showcases hands-on projects spanning Azure cloud security automation, compliance framework implementation (SOC 2, NIST 800-53, ISO 27001), agentic AI security tooling, vulnerability management, and threat hunting — built using Azure, Python, Terraform, Bicep, Microsoft Graph API, PowerShell, and KQL.
 
 ## 🛡️ GRC Engineer & Security Automation Projects
 
