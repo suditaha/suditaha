@@ -26,6 +26,7 @@ Cyber Security Analyst focused on Cloud Security, GRC Automation, and Security E
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/suditaha/threat-hunting-scenario-tor)**
 - **[Threat Hunting Scenario (Signals Before the Noise)](https://github.com/suditaha/threat-hunt-signals0)**
+- **[Azure Honeypot Cyber Defense Capstone](https://github.com/suditaha/Honeypot-Cyber)**
 
 ## 🖥️ Other IT Projects
 
